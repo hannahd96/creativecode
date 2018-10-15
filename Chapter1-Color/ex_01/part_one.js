@@ -2,6 +2,7 @@
 //	code more readable and accurate
 'use strict';
 
+
 function setup() {
 	// sets canvas width & height
   createCanvas(720, 720);
