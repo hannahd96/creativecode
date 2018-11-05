@@ -1,9 +1,17 @@
 Generative Design Colour Experiment
--Project Idea Summary-
 
+# Project Idea Summary
+
+Introduction
 My concept is to utilize P5 JS to explore and experiment with image pixel arrays by altering the shape, size and colour of them. This 
 involves inputting an image as a pixel array, employing some form of mathematics to alter the size of these pixels and outputting an 
-image with different sized pixels. The outputted image will ideally convey qualities of Cubism art / Abstract art as all pixels will be 
-different sizes and appear along side each other. 
-In addition the pixels in the image pixel array will change colour and will overlap other pixels. 
+image with different sized pixels.  In addition the pixels in the image pixel array will change colour and will overlap other pixels. 
+
+Main
+The outputted image will ideally convey qualities of Cubism art / Abstract art as all pixels will be different sizes and appear along 
+side each other. Because an image is loaded as an array of numbers (data), these numbers can be adjusted to generate an interesting 
+piece of artwork / an image. I will be using generative-gestaltung to assist me in executing this 
+
+Conclusion
 With all these image attributes altered, the program has the potential to create unique and interesting images. 
+
